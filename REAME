@@ -1,0 +1,8 @@
+keyring.sh
+==========
+
+Store passwords in an encrypted file for you to grep through later. For the
+classic "let me just copy-paste this password for the termital into this prompt"
+use --easy-copy and --cloak-pass. This will only output the password and do it
+white on white. You nosy co-workers won't event know there is a password right
+in front of them! Muhaha
